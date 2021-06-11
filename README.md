@@ -7,7 +7,7 @@
  🌱 &nbsp; Learning about Okta registration 
 
 <h3>🛠 Tech Stack</h3>
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
+ 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
 
 <!--
 - 🛢 &nbsp; PostgreSQL 
@@ -19,7 +19,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
+ 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 ![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
