@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and working on new projects.
+🤔 &nbsp; Exploring new technologies and working on new projects.
 
 - 🎓 &nbsp; Studying Computer Science and full stack web development
 
