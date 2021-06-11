@@ -7,8 +7,6 @@
  🌱 &nbsp; Learning about Okta registration 
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
 
 <!--
