@@ -3,9 +3,11 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and working on new projects.
+-
 - 🎓 &nbsp; Studying Computer Science and full stack web development
+-
 - 🌱 &nbsp; Learning about Okta registration 
-- 
+
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
