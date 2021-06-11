@@ -1,23 +1,27 @@
+### Hi there 👋<h2> I'm RIGO</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+- 🤔 &nbsp; Exploring new technologies and working on new projects.
+- 🎓 &nbsp; Studying Computer Science and full stack web development
+- 🌱 &nbsp; Learning about Okta registration 
+- 
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
+
+<!--
+- 🛢 &nbsp; PostgreSQL 
+- 🔧 &nbsp; Git | Linux
+- 🖥 &nbsp; Responsive Design
+-->
 
 
-- 👯 I’m a full stack web developer 
-- 🤔 I’m looking for help with finding my dream job
-- 💬 Ask me about my favorite sport 
-- 📫 How to reach me: send me a message to rigo0523@hotmail.com 
-- 😄 Pronouns: He/Him
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 ![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
