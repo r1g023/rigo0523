@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523)](https://github.com/rigo0523/github-readme-stats)
+![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
 - 👯 I’m a full stack web developer 
 - 🤔 I’m looking for help with finding my dream job
