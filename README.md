@@ -3,7 +3,9 @@
 
 <h3>💻 About Me </h3>
  🤔 &nbsp; Exploring new technologies and working on new projects.
+ &nbsp;
  🎓 &nbsp; Studying Computer Science and full stack web development
+ &nbsp;
  🌱 &nbsp; Learning about Okta registration 
 
 <h3>🛠 Tech Stack</h3>
