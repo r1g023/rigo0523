@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm RIG0</h2>
+### Hi there 👋
 <h3>💻 About Me </h3>
  🤔 &nbsp; Exploring new technologies and working on new projects.
 
