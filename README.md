@@ -23,6 +23,7 @@
 
 ![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rigo0523&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
-
+<a href="https://github.com/rigo0523">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigo0523&theme=radical&hide=glsl,javascript" />
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigo0523&layout=compact)](https://github.com/rigo0523/github-readme-stats) -->
