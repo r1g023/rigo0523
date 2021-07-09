@@ -19,7 +19,7 @@
 
 <h3>🛠 To Learn</h3>
 
- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
+ 🔧 &nbsp; AWS | Docker🐳 | Firebase | GraphQL
 
 ![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
