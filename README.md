@@ -4,7 +4,7 @@
 
  🎓 &nbsp; Computer Science and full stack web development
  
- 🌱 &nbsp; Learning about Okta registration 
+ 🌱 &nbsp; Learning about Okta registration! 
 
 <h3>🛠 Tech Stack</h3>
  🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
