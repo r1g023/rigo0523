@@ -6,7 +6,7 @@
 
 
 <h3>🛠 Tech Stack</h3>
- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Python | Node.js | RESTful API | Express.js | Authentication 
+ 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux | Python | Node.js | RESTful API | Express.js | Authentication | postgreSQL
 
 <!--
 - 🛢 &nbsp; PostgreSQL 
