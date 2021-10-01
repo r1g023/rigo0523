@@ -6,7 +6,7 @@
 
 
 <h3>🛠 Tech Stack</h3>
-<h2>MERN Stack </h2>
+<h4>MERN Stack </h4>
  🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux | Python | Node.js | RESTful API | Express.js | Authentication | postgreSQL
 
 <!--
