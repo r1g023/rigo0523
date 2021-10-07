@@ -11,7 +11,7 @@
 
 <!--
 - 🛢 &nbsp; PostgreSQL 
-- 🔧 &nbsp; Git | Linux
+- 🔧 &nbsp; Git | Linux | WSL2
 - 🖥 &nbsp; Responsive Design
 -->
 
