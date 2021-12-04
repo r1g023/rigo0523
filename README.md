@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Stack</h3>
 <h4>MERN Stack </h4>
- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux | Python | Node.js | RESTful API | Express.js | Authentication | postgreSQL | Redis
+ 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux | Python | Node.js | RESTful API | Express.js | Authentication | postgreSQL | Redis | WSL Linux
 
 <!--
 - 🛢 &nbsp; PostgreSQL 
@@ -19,7 +19,7 @@
 
 <h3>🛠 To Learn </h3>
 
- 🔧 &nbsp; Azure | Docker🐳 | Firebase | GraphQL
+ 🔧 &nbsp; Azure | Docker🐳 | DevOps | FastAPI | Firebase | GraphQL |
 
 ![Rigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigo0523&show_icons=true&theme=radical)
 
