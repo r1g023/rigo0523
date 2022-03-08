@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3>💻 About Me </h3>
- 🤔 &nbsp; Exploring new technologies and working on new projects.
+ 🤔 &nbsp; Exploring new technologies and working on new projects. Passionate about solving problems through code!
 
  🎓 &nbsp; Computer Science and full stack web development! 
 
